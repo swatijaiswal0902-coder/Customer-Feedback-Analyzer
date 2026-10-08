@@ -1,0 +1,41 @@
+Review_Id,Customer_Feedback,Sentiment,Category,Severity,Key_Issue,Suggested_Action
+1,The app is easy to navigate and I found what I needed quickly. Really happy with the new design.,Positive,UI/UX,Low,Easy navigation and improved design,Maintain the intuitive navigation and design.
+2,I tried making a payment three times but the app crashed every time. I eventually gave up on the purchase.,Negative,Technical Bug,High,App crashes during payment,Prioritize fixing crashes in the payment flow.
+3,"The app works fine, but it takes a long time to load whenever I open the orders section.",Negative,Performance,Medium,Orders section loads slowly,Optimize loading performance for the orders section.
+4,Customer support was extremely helpful and resolved my issue within ten minutes.,Positive,Customer Support,Low,Fast and helpful support,Maintain the current support response quality.
+5,I was charged twice for the same purchase. I have contacted support but haven't received my refund yet.,Negative,Payments,High,Duplicate charge and delayed refund,Investigate duplicate charges and speed up refunds.
+6,"The latest update looks much cleaner, but I preferred the old location of the search button.",Neutral,UI/UX,Low,Search button location changed,Review discoverability of the relocated search button.
+7,The premium plan feels too expensive for the limited additional features it provides.,Negative,Pricing,Medium,Premium plan feels overpriced,Reassess premium pricing and feature value.
+8,I love the new dark mode. It makes the app much more comfortable to use at night.,Positive,UI/UX,Low,Dark mode improves usability,Continue supporting and refining dark mode.
+9,The app logged me out in the middle of placing an order and I had to start everything again.,Negative,Technical Bug,High,Unexpected logout during checkout,Fix session stability during critical user flows.
+10,My order arrived two days earlier than expected and the entire experience was smooth.,Positive,Delivery,Low,Order arrived ahead of schedule,Maintain reliable and timely delivery performance.
+11,It would be great if you could add an option to save multiple delivery addresses.,Neutral,Features,Low,Needs multiple saved addresses,Add support for multiple saved delivery addresses.
+12,The search feature often shows completely unrelated results. Finding the right product takes too much time.,Negative,Features,Medium,Search results are irrelevant,Improve search relevance and ranking quality.
+13,I contacted customer support yesterday and still haven't received a response.,Negative,Customer Support,Medium,Slow support response,Reduce customer support response times.
+14,The payment went through smoothly and I received confirmation immediately.,Positive,Payments,Low,Smooth payment and confirmation,Maintain the reliable payment confirmation flow.
+15,The app freezes for several seconds whenever I upload a profile picture.,Negative,Performance,Medium,App freezes during image upload,Optimize profile image upload performance.
+16,The interface is simple and easy to understand even for someone using the app for the first time.,Positive,UI/UX,Low,Interface is easy to understand,Preserve the simple onboarding-friendly interface.
+17,My order was supposed to arrive four days ago and there is still no useful delivery update.,Negative,Delivery,High,Order severely delayed,Improve delivery tracking and delay escalation.
+18,I wish there was an option to compare two products side by side before purchasing.,Neutral,Features,Low,No product comparison feature,Add a side-by-side product comparison option.
+19,The app consumes a lot of battery compared with other apps I regularly use.,Negative,Performance,Medium,High battery consumption,Optimize background processes and battery usage.
+20,I received my refund within a few hours after reporting the problem. Great customer service.,Positive,Customer Support,Low,Refund handled very quickly,Maintain fast refund resolution standards.
+21,The checkout process has too many unnecessary steps. It should be much faster to complete a purchase.,Negative,UI/UX,Medium,Checkout has too many steps,Simplify and shorten the checkout flow.
+22,I keep receiving an error when trying to apply a valid discount coupon.,Negative,Technical Bug,Medium,Valid coupon returns error,Fix coupon validation and error handling.
+23,The monthly subscription price increased again. I don't think the service provides enough value at this price.,Negative,Pricing,Medium,Subscription price lacks value,Review pricing against perceived customer value.
+24,The recommendations have improved significantly. I'm now seeing products that are actually relevant to me.,Positive,Features,Low,Recommendations are more relevant,Continue improving recommendation quality.
+25,Notifications are excessive. I don't need five promotional alerts every day.,Negative,UI/UX,Medium,Too many promotional notifications,Add granular notification preference controls.
+26,I couldn't reset my password because the verification email never arrived.,Negative,Technical Bug,High,Password reset email missing,Fix password-reset email delivery reliability.
+27,The new update made the app noticeably faster. Pages now load almost instantly.,Positive,Performance,Low,App is faster after update,Maintain recent performance improvements.
+28,"My delivery arrived on time, but the tracking information was inaccurate throughout the day.",Neutral,Delivery,Medium,Delivery tracking is inaccurate,Improve real-time tracking accuracy.
+29,I would like an option to download my invoices directly from the app.,Neutral,Features,Low,No in-app invoice download,Add an invoice download option in the app.
+30,The app crashed after I spent ten minutes filling out a form and none of my information was saved.,Negative,Technical Bug,High,Crash caused unsaved form data,Add autosave and fix the form crash.
+31,"Support responded quickly, but their answer did not actually solve my problem.",Negative,Customer Support,Medium,Support reply did not resolve issue,Improve first-contact resolution quality.
+32,The font size on some screens is too small and there doesn't seem to be any accessibility setting to increase it.,Negative,UI/UX,Medium,Text lacks accessibility controls,Add adjustable text size and accessibility settings.
+33,Everything works as expected. I haven't faced any major issues so far.,Positive,Other,Low,Product works as expected,Maintain overall product reliability.
+34,I accidentally made the wrong purchase and the cancellation process was surprisingly easy.,Positive,Features,Low,Cancellation process is easy,Preserve the simple cancellation experience.
+35,"The app becomes very slow during the evening, especially when opening product pages.",Negative,Performance,Medium,App slows down in evenings,Investigate peak-time performance bottlenecks.
+36,"I like the service, but I wish the free version allowed users to access a few more features.",Neutral,Pricing,Low,Free tier feels too limited,Review the feature balance of the free tier.
+37,My payment failed but money was still deducted from my bank account. This needs to be fixed urgently.,Negative,Payments,High,Money deducted after failed payment,Urgently reconcile failed payments and deductions.
+38,"The filters are useful, but they reset every time I return to the search results.",Negative,UI/UX,Medium,Search filters keep resetting,Persist filter selections across navigation.
+39,I've been using the app for six months and the recent improvements have made the overall experience much better.,Positive,Other,Low,Recent updates improved experience,Continue iterating on successful improvements.
+40,I reported a serious login issue two days ago and customer support has still not responded.,Negative,Customer Support,High,Serious login issue unanswered,Escalate critical support tickets more quickly.
